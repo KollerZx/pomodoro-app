@@ -1,3 +1,4 @@
+
 # Pomodoro App
 
 A técnica pomodoro se baseia na ideia de que dividindo o nosso fluxo de trabalho em blocos de concentração intensa, 
@@ -25,14 +26,45 @@ Além de algumas libs externas que possuem ótima integração como react-hook-f
 
 ## Screenshots
 
-### Iniciar um novo ciclo
+Iniciar um novo ciclo
 
 ![Task](https://i.imgur.com/0hOAeml.png)
 
-### Ciclo Ativo
+Ciclo Ativo
 
 ![Cycle](https://i.imgur.com/Heo8OOJ.png)
 
-### Histórico
+Histórico
+![History](https://i.imgur.com/VDLPuVp.pngsssssssssss)
 
-![History](https://i.imgur.com/VDLPuVp.png)
+
+## Rodando localmente
+
+Clone o projeto
+
+```bash
+  git clone https://github.com/KollerZx/pomodoro-app.git
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd pomodoro-app
+```
+
+Instale as dependências
+
+```bash
+  npm install
+```
+
+Inicie o servidor
+
+```bash
+  npm run dev
+```
+
+## Licença
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
